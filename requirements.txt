@@ -1,2 +1,2 @@
-streamlit
-ollama
+ollama>=0.1.7
+streamlit>=1.32.2
