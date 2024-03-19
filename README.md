@@ -6,7 +6,7 @@ Run your LLMs Locally with Ollama
 ## Locally Hosted LLM Chat  Works totally offline
 
 
-This is a quick demo of how to get a fully local model up and running with Mistral 7b check out the accompanying [blog post](https://TKTKTK) for more details.
+This is a quick demo of how to get a fully local model up and running with Mistral 7b.
 
 
 
